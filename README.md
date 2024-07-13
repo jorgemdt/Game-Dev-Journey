@@ -1,4 +1,4 @@
-### Roadmap Detalhado para Estudar Game Design (WIP)
+### Roadmap para Estudar Game Design (WIP)
 
 #### **Fase 1: Fundamentos do Game Design**
 - **Objetivo:** Compreender os conceitos básicos e adquirir conhecimento teórico.
