@@ -22,13 +22,13 @@
 #### **Fase 2: Ferramentas e Técnicas Básicas**
 - **Objetivo:** Aprender a usar ferramentas e adquirir habilidades técnicas.
 
-1. **Engines de Jogo**
+1. **Engines de Jogo ( Escolha uma )**
    - **Recursos:**
      - [Unity Learn - Cursos Gratuitos](https://learn.unity.com/)
      - [Unreal Engine - Tutoriais Oficiais](https://www.unrealengine.com/en-US/onlinelearning-courses)
      - [Godot - Documentação e Tutoriais Oficiais](https://docs.godotengine.org/en/stable/)
    - **Metas:**
-     - Criar projetos simples em diferentes engines
+     - Criar projetos simples na engine escolhida
      - Entender o pipeline básico de desenvolvimento
 
 2. **Programação para Jogos**
