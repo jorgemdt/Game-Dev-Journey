@@ -5,8 +5,7 @@
 
 1. **Introdução ao Game Design**
    - **Recursos:**
-     - [Coursera - Introduction to Game Design (CalArts)](https://www.coursera.org/learn/game-design)
-     - [edX - Video Game Design History (Rochester Institute of Technology)](https://www.edx.org/course/video-game-design-history)
+     - Coursera - Introduction to Game Design (CalArts)
      - Livro: "The Art of Game Design: A Book of Lenses" de Jesse Schell
    - **Metas:**
      - Entender o que é game design
@@ -14,7 +13,6 @@
 
 2. **História dos Jogos**
    - **Recursos:**
-     - [Coursera - Video Games and Learning (University of Wisconsin-Madison)](https://www.coursera.org/learn/video-games-learning)
      - Artigos e vídeos sobre a história dos jogos
      - Livro: "A História dos Videogames em 64 bits" de Paulo Vicente
    - **Metas:**
