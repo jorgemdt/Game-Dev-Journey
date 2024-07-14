@@ -5,7 +5,7 @@
 
 1. **Introdução ao Game Design**
    - **Recursos:**
-     - Coursera - Introduction to Game Design (CalArts)
+     - [Coursera - Introduction to Game Design (CalArts)](https://www.coursera.org/learn/game-design)
      - Livro: "The Art of Game Design: A Book of Lenses" de Jesse Schell
    - **Metas:**
      - Entender o que é game design
