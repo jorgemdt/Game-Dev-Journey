@@ -14,7 +14,7 @@
   - **Exemplo:** 
     ```csharp
     
-    public class HelloWorld : MonoBehaviour
+    public class HelloWorld
     {
         void Start()
         {
